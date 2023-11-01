@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/custom_button_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo del botón -->
+    <solid android:color="@color/blue" />
+
+    <!-- Borde del botón -->
+    <stroke
+        android:width="0dp"
+    android:color="@android:color/white" />
+
+
+    <corners android:radius="40dp" />
+
+ </shape>
